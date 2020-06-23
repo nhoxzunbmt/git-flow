@@ -1,0 +1,24 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhoxzunbmt/git-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhoxzunbmt/git-flow/issues"
+  },
+  "homepage": "https://github.com/nhoxzunbmt/git-flow#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "http": "0.0.1-security"
+  }
+}
